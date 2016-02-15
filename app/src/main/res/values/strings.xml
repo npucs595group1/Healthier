@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Healthier</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_hello">Welcome to Healthier</string>
+    <string name="main_button_map">Open Map</string>
+    <string name="title_activity_map">MapTracker</string>
+    <string name="map_hello">Here is map</string>
+    <string name="title_activity_google_map">RouteTracker</string>
+    <string name="error_when_retrieving_data">error_when_retrieving_data</string>
+</resources>
