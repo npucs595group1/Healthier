@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void main_button_map_click(View view) {
-        Intent intent = new Intent(this, MapActivity.class);
+        Intent intent = new Intent(this, LocationActivity.class);
         /*EditText editText = (EditText) findViewById(R.id.main_hello);
         String message = editText.getText().toString() + "_Map";
         intent.putExtra(EXTRA_MESSAGE, message);*/
