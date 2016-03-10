@@ -10,6 +10,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/main_button_map"
-        android:onClick="main_button_map_click" />
+        android:onClick="main_button_map_click"
+        android:id="@+id/main_button_map"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Link to Server"
+        android:onClick="main_button_server_click"
+        android:id="@+id/main_button_server" />
 
 </LinearLayout>
